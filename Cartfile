@@ -1,0 +1,6 @@
+binary "https://dl.google.com/dl/firebase/ios/carthage/FirebaseAnalyticsBinary.json"
+binary "https://dl.google.com/dl/firebase/ios/carthage/FirebaseRemoteConfigBinary.json"
+binary "https://dl.google.com/dl/firebase/ios/carthage/FirebaseInAppMessagingBinary.json"
+binary "https://dl.google.com/dl/firebase/ios/carthage/FirebaseInAppMessagingDisplayBinary.json"
+binary "https://dl.google.com/dl/firebase/ios/carthage/FirebasePerformanceBinary.json"
+github "realm/realm-cocoa"

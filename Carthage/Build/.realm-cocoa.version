@@ -1,0 +1,47 @@
+{
+  "Mac" : [
+    {
+      "name" : "RealmSwift",
+      "hash" : "88193b981ff3794a07449388352060e6275e9136de9590185fb232a4e0aa5b80",
+      "swiftToolchainVersion" : "5.1.2 (swiftlang-1100.0.278 clang-1100.0.33.9)"
+    },
+    {
+      "name" : "Realm",
+      "hash" : "7e6d103aa2c513400d09c22de12e53e056a83c1b8ba44e5db8abb7644efe7838"
+    }
+  ],
+  "watchOS" : [
+    {
+      "name" : "RealmSwift",
+      "hash" : "96ed04c5e50709029d401d38e1b6ec8f3c97e90bec8fe9cd79916dbcbcf29ad2",
+      "swiftToolchainVersion" : "5.1.2 (swiftlang-1100.0.278 clang-1100.0.33.9)"
+    },
+    {
+      "name" : "Realm",
+      "hash" : "c8d4fedce36c4e399cbaf12d7283700e0ec638553972b17740ea499770432759"
+    }
+  ],
+  "tvOS" : [
+    {
+      "name" : "RealmSwift",
+      "hash" : "5e19bcef890b847fc9953e6ef63090e61de9e551654970b49c8080ffcf0eade6",
+      "swiftToolchainVersion" : "5.1.2 (swiftlang-1100.0.278 clang-1100.0.33.9)"
+    },
+    {
+      "name" : "Realm",
+      "hash" : "172c944a90981964173c117426dc94e879c9bca9b7f67394a0d9ae10b221414c"
+    }
+  ],
+  "commitish" : "v4.1.1",
+  "iOS" : [
+    {
+      "name" : "RealmSwift",
+      "hash" : "b8317b4e75d1c8b38bf9d21faa6b3cdc84a74d3fb444fc3be65db9115c5a91cb",
+      "swiftToolchainVersion" : "5.1.2 (swiftlang-1100.0.278 clang-1100.0.33.9)"
+    },
+    {
+      "name" : "Realm",
+      "hash" : "febcd5d763c4490256f749a0498bdfc8bc2759e17dc08ab7cbbeaf890adbc0c0"
+    }
+  ]
+}
